@@ -1,0 +1,16 @@
+C:\Users\Dodo\Desktop\PrinterEPSON\PrinterEPSON\bin\Debug\net8.0-windows\PrinterEPSON.exe
+C:\Users\Dodo\Desktop\PrinterEPSON\PrinterEPSON\bin\Debug\net8.0-windows\PrinterEPSON.deps.json
+C:\Users\Dodo\Desktop\PrinterEPSON\PrinterEPSON\bin\Debug\net8.0-windows\PrinterEPSON.runtimeconfig.json
+C:\Users\Dodo\Desktop\PrinterEPSON\PrinterEPSON\bin\Debug\net8.0-windows\PrinterEPSON.dll
+C:\Users\Dodo\Desktop\PrinterEPSON\PrinterEPSON\bin\Debug\net8.0-windows\PrinterEPSON.pdb
+C:\Users\Dodo\Desktop\PrinterEPSON\PrinterEPSON\obj\Debug\net8.0-windows\PrinterEPSON.Form1.resources
+C:\Users\Dodo\Desktop\PrinterEPSON\PrinterEPSON\obj\Debug\net8.0-windows\PrinterEPSON.csproj.GenerateResource.cache
+C:\Users\Dodo\Desktop\PrinterEPSON\PrinterEPSON\obj\Debug\net8.0-windows\PrinterEPSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dodo\Desktop\PrinterEPSON\PrinterEPSON\obj\Debug\net8.0-windows\PrinterEPSON.AssemblyInfoInputs.cache
+C:\Users\Dodo\Desktop\PrinterEPSON\PrinterEPSON\obj\Debug\net8.0-windows\PrinterEPSON.AssemblyInfo.cs
+C:\Users\Dodo\Desktop\PrinterEPSON\PrinterEPSON\obj\Debug\net8.0-windows\PrinterEPSON.csproj.CoreCompileInputs.cache
+C:\Users\Dodo\Desktop\PrinterEPSON\PrinterEPSON\obj\Debug\net8.0-windows\PrinterEPSON.dll
+C:\Users\Dodo\Desktop\PrinterEPSON\PrinterEPSON\obj\Debug\net8.0-windows\refint\PrinterEPSON.dll
+C:\Users\Dodo\Desktop\PrinterEPSON\PrinterEPSON\obj\Debug\net8.0-windows\PrinterEPSON.pdb
+C:\Users\Dodo\Desktop\PrinterEPSON\PrinterEPSON\obj\Debug\net8.0-windows\PrinterEPSON.genruntimeconfig.cache
+C:\Users\Dodo\Desktop\PrinterEPSON\PrinterEPSON\obj\Debug\net8.0-windows\ref\PrinterEPSON.dll
