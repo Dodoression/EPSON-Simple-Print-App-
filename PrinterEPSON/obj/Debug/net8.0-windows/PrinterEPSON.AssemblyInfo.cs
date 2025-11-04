@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrinterEPSON")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a623fb91592f2247086f27bffb4624e29cf48ab")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrinterEPSON")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrinterEPSON")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
